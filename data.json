@@ -879,6 +879,81 @@
       "station": "Zwickauer Damm",
       "latitude": 52.423333,
       "longitude": 13.483889
+    },
+    "178": {
+      "station": "Prenzlauer Allee",
+      "latitude": 52.54520,
+      "longitude": 13.42753
+    },
+    "179": {
+      "station": "Greifswalder Straße",
+      "latitude": 52.5407284,
+      "longitude": 13.4382788
+    },
+    "180": {
+      "station": "Landsberger Allee",
+      "latitude": 52.5285325,
+      "longitude": 13.4557828
+    },
+    "181": {
+      "station": "Storkower Straße",
+      "latitude": 52.52374,
+      "longitude": 13.46498
+    },
+    "182": {
+      "station": "Ostkreuz",
+      "latitude": 52.50311,
+      "longitude": 13.46966
+    },
+    "183": {
+      "station": "Treptower Park",
+      "latitude": 52.49395,
+      "longitude": 13.46152
+    },
+    "184": {
+      "station": "Sonnenallee",
+      "latitude": 52.47297,
+      "longitude": 13.45563
+    },
+    "186": {
+      "station": "Südkreuz",
+      "latitude": 52.47598,
+      "longitude": 13.36516
+    },
+    "187": {
+      "station": "Schöneberg",
+      "latitude": 52.47938,
+      "longitude": 13.35196
+    },
+    "188": {
+      "station": "Hohenzollerndamm",
+      "latitude": 52.48863,
+      "longitude": 13.30025
+    },
+    "189": {
+      "station": "Halensee",
+      "latitude": 52.49648,
+      "longitude": 13.29023
+    },
+    "190": {
+      "station": "Westkreuz",
+      "latitude": 52.50084,
+      "longitude": 13.28396
+    },
+    "191": {
+      "station": "Messe Nord/ICC",
+      "latitude": 52.50774,
+      "longitude": 13.28353
+    },
+    "192": {
+      "station": "Westend",
+      "latitude": 52.51877,
+      "longitude": 13.28414
+    },
+    "193": {
+      "station": "Beusselstraße",
+      "latitude": 52.53440,
+      "longitude": 13.32939
     }
   },
   "lines": {
@@ -1107,6 +1182,36 @@
       "162",
       "139",
       "123"
+    ],
+    "Ringbahn": [
+      "41",
+      "140",
+      "178",
+      "179",
+      "180",
+      "181",
+      "33",
+      "182",
+      "183",
+      "184",
+      "99",
+      "57",
+      "152",
+      "186",
+      "187",
+      "61",
+      "23",
+      "53",
+      "188",
+      "189",
+      "190",
+      "191",
+      "192",
+      "65",
+      "193",
+      "167",
+      "165",
+      "41"
     ]
   }
 }
