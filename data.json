@@ -505,11 +505,6 @@
       "latitude": 52.499444,
       "longitude": 13.353611
     },
-    "101": {
-      "station": "Nürnberger Platz",
-      "latitude": 52.498333,
-      "longitude": 13.334167
-    },
     "102": {
       "station": "Olympia-Stadion",
       "latitude": 52.517222,
@@ -534,11 +529,6 @@
       "station": "Osloer Straße",
       "latitude": 52.556944,
       "longitude": 13.373333
-    },
-    "107": {
-      "station": "Osthafen",
-      "latitude": 52.502222,
-      "longitude": 13.446389
     },
     "108": {
       "station": "Otisstraße",
