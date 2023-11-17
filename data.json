@@ -1,0 +1,1122 @@
+{
+  "stations": {
+    "0": {
+      "station": "Adenauerplatz",
+      "latitude": 52.499722,
+      "longitude": 13.307222
+    },
+    "1": {
+      "station": "Afrikanische Straße",
+      "latitude": 52.560556,
+      "longitude": 13.334167
+    },
+    "2": {
+      "station": "Alexanderplatz",
+      "latitude": 52.521389,
+      "longitude": 13.413333
+    },
+    "3": {
+      "station": "Altstadt Spandau",
+      "latitude": 52.539722,
+      "longitude": 13.205556
+    },
+    "4": {
+      "station": "Alt-Mariendorf",
+      "latitude": 52.439722,
+      "longitude": 13.3875
+    },
+    "5": {
+      "station": "Alt-Tegel",
+      "latitude": 52.589444,
+      "longitude": 13.283611
+    },
+    "6": {
+      "station": "Alt-Tempelhof",
+      "latitude": 52.466111,
+      "longitude": 13.385556
+    },
+    "7": {
+      "station": "Amrumer Straße",
+      "latitude": 52.542222,
+      "longitude": 13.348889
+    },
+    "8": {
+      "station": "Augsburger Straße",
+      "latitude": 52.500556,
+      "longitude": 13.336389
+    },
+    "9": {
+      "station": "Bayerischer Platz",
+      "latitude": 52.488611,
+      "longitude": 13.34
+    },
+    "10": {
+      "station": "Berliner Straße",
+      "latitude": 52.487222,
+      "longitude": 13.330833
+    },
+    "11": {
+      "station": "Bernauer Straße",
+      "latitude": 52.5375,
+      "longitude": 13.396667
+    },
+    "12": {
+      "station": "Biesdorf-Süd",
+      "latitude": 52.499722,
+      "longitude": 13.546389
+    },
+    "13": {
+      "station": "Birkenstraße",
+      "latitude": 52.531944,
+      "longitude": 13.341389
+    },
+    "14": {
+      "station": "Bismarckstraße",
+      "latitude": 52.511389,
+      "longitude": 13.304722
+    },
+    "15": {
+      "station": "Blaschkoallee",
+      "latitude": 52.451667,
+      "longitude": 13.449722
+    },
+    "16": {
+      "station": "Blissestraße",
+      "latitude": 52.486667,
+      "longitude": 13.321944
+    },
+    "17": {
+      "station": "Boddinstraße",
+      "latitude": 52.479444,
+      "longitude": 13.425556
+    },
+    "18": {
+      "station": "Borsigwerke",
+      "latitude": 52.581944,
+      "longitude": 13.290833
+    },
+    "19": {
+      "station": "Brandenburger Tor",
+      "latitude": 52.516389,
+      "longitude": 13.380833
+    },
+    "20": {
+      "station": "Breitenbachplatz",
+      "latitude": 52.466944,
+      "longitude": 13.308611
+    },
+    "21": {
+      "station": "Britz-Süd",
+      "latitude": 52.437778,
+      "longitude": 13.448333
+    },
+    "22": {
+      "station": "Bülowstraße",
+      "latitude": 52.4975,
+      "longitude": 13.363333
+    },
+    "23": {
+      "station": "Bundesplatz",
+      "latitude": 52.478889,
+      "longitude": 13.328056
+    },
+    "24": {
+      "station": "Bundestag",
+      "latitude": 52.52,
+      "longitude": 13.372778
+    },
+    "25": {
+      "station": "Cottbusser Platz",
+      "latitude": 52.534444,
+      "longitude": 13.596389
+    },
+    "26": {
+      "station": "Dahlem-Dorf",
+      "latitude": 52.4575,
+      "longitude": 13.289722
+    },
+    "27": {
+      "station": "Deutsche Oper",
+      "latitude": 52.511944,
+      "longitude": 13.310556
+    },
+    "28": {
+      "station": "Eberswalder Straße",
+      "latitude": 52.541667,
+      "longitude": 13.412222
+    },
+    "29": {
+      "station": "Eisenacher Straße",
+      "latitude": 52.489444,
+      "longitude": 13.350278
+    },
+    "30": {
+      "station": "Elsterwerdaer Platz",
+      "latitude": 52.505,
+      "longitude": 13.560556
+    },
+    "31": {
+      "station": "Ernst-Reuter-Platz",
+      "latitude": 52.511944,
+      "longitude": 13.322222
+    },
+    "32": {
+      "station": "Fehrbelliner Platz",
+      "latitude": 52.490278,
+      "longitude": 13.314167
+    },
+    "33": {
+      "station": "Frankfurter Allee",
+      "latitude": 52.510833,
+      "longitude": 13.475833
+    },
+    "34": {
+      "station": "Frankfurter Tor",
+      "latitude": 52.515833,
+      "longitude": 13.454167
+    },
+    "35": {
+      "station": "Franz-Neumann-Platz",
+      "latitude": 52.563889,
+      "longitude": 13.364167
+    },
+    "36": {
+      "station": "Französische Straße",
+      "latitude": 52.514722,
+      "longitude": 13.389167
+    },
+    "37": {
+      "station": "Freie Universität",
+      "latitude": 52.451111,
+      "longitude": 13.282222
+    },
+    "38": {
+      "station": "Friedrichsfelde",
+      "latitude": 52.489444,
+      "longitude": 13.512778
+    },
+    "39": {
+      "station": "Friedrichstraße",
+      "latitude": 52.520278,
+      "longitude": 13.387222
+    },
+    "40": {
+      "station": "Friedrich-Wilhelm-Platz",
+      "latitude": 52.471944,
+      "longitude": 13.328611
+    },
+    "41": {
+      "station": "Gesundbrunnen",
+      "latitude": 52.548611,
+      "longitude": 13.388889
+    },
+    "42": {
+      "station": "Gleisdreieck",
+      "latitude": 52.498333,
+      "longitude": 13.375278
+    },
+    "43": {
+      "station": "Gneisenaustraße",
+      "latitude": 52.491389,
+      "longitude": 13.396111
+    },
+    "44": {
+      "station": "Görlitzer Bahnhof",
+      "latitude": 52.499167,
+      "longitude": 13.428056
+    },
+    "45": {
+      "station": "Grenzallee",
+      "latitude": 52.463333,
+      "longitude": 13.443889
+    },
+    "46": {
+      "station": "Güntzelstraße",
+      "latitude": 52.491944,
+      "longitude": 13.330833
+    },
+    "47": {
+      "station": "Halemweg",
+      "latitude": 52.536667,
+      "longitude": 13.286389
+    },
+    "48": {
+      "station": "Hallesches Tor",
+      "latitude": 52.497778,
+      "longitude": 13.391111
+    },
+    "49": {
+      "station": "Hansaplatz",
+      "latitude": 52.517778,
+      "longitude": 13.342222
+    },
+    "50": {
+      "station": "Haselhorst",
+      "latitude": 52.539,
+      "longitude": 13.232778
+    },
+    "51": {
+      "station": "Hauptbahnhof",
+      "latitude": 52.525,
+      "longitude": 13.369444
+    },
+    "52": {
+      "station": "Hausvogteiplatz",
+      "latitude": 52.513056,
+      "longitude": 13.396667
+    },
+    "53": {
+      "station": "Heidelberger Platz",
+      "latitude": 52.48,
+      "longitude": 13.311944
+    },
+    "54": {
+      "station": "Heinrich-Heine-Straße",
+      "latitude": 52.510278,
+      "longitude": 13.415833
+    },
+    "55": {
+      "station": "Hellersdorf",
+      "latitude": 52.536667,
+      "longitude": 13.606389
+    },
+    "56": {
+      "station": "Hermannplatz",
+      "latitude": 52.487222,
+      "longitude": 13.424722
+    },
+    "57": {
+      "station": "Hermannstraße",
+      "latitude": 52.4675,
+      "longitude": 13.431389
+    },
+    "58": {
+      "station": "Hohenzollernplatz",
+      "latitude": 52.494167,
+      "longitude": 13.324722
+    },
+    "59": {
+      "station": "Holzhauser Straße",
+      "latitude": 52.575833,
+      "longitude": 13.296111
+    },
+    "60": {
+      "station": "Hönow",
+      "latitude": 52.538333,
+      "longitude": 13.633889
+    },
+    "61": {
+      "station": "Innsbrucker Platz",
+      "latitude": 52.478611,
+      "longitude": 13.343889
+    },
+    "62": {
+      "station": "Jakob-Kaiser-Platz",
+      "latitude": 52.536667,
+      "longitude": 13.293333
+    },
+    "63": {
+      "station": "Jannowitzbrücke",
+      "latitude": 52.515,
+      "longitude": 13.418056
+    },
+    "64": {
+      "station": "Johannisthaler Chaussee",
+      "latitude": 52.429444,
+      "longitude": 13.453056
+    },
+    "65": {
+      "station": "Jungfernheide",
+      "latitude": 52.531944,
+      "longitude": 13.300833
+    },
+    "66": {
+      "station": "Kaiserdamm",
+      "latitude": 52.51,
+      "longitude": 13.282222
+    },
+    "67": {
+      "station": "Kaiserin-Augusta-Straße",
+      "latitude": 52.46,
+      "longitude": 13.384722
+    },
+    "68": {
+      "station": "Karl-Bonhoeffer-Nervenklinik",
+      "latitude": 52.578333,
+      "longitude": 13.331389
+    },
+    "69": {
+      "station": "Karl-Marx-Straße",
+      "latitude": 52.476111,
+      "longitude": 13.439167
+    },
+    "70": {
+      "station": "Kaulsdorf-Nord",
+      "latitude": 52.521111,
+      "longitude": 13.589444
+    },
+    "71": {
+      "station": "Kienberg",
+      "latitude": 52.528611,
+      "longitude": 13.590556
+    },
+    "72": {
+      "station": "Kleistpark",
+      "latitude": 52.490556,
+      "longitude": 13.360278
+    },
+    "73": {
+      "station": "Klosterstraße",
+      "latitude": 52.516111,
+      "longitude": 13.412222
+    },
+    "74": {
+      "station": "Kochstraße",
+      "latitude": 52.505833,
+      "longitude": 13.390556
+    },
+    "75": {
+      "station": "Konstanzer Straße",
+      "latitude": 52.493611,
+      "longitude": 13.31
+    },
+    "76": {
+      "station": "Kottbusser Tor",
+      "latitude": 52.499167,
+      "longitude": 13.418056
+    },
+    "77": {
+      "station": "Krumme Lanke",
+      "latitude": 52.443333,
+      "longitude": 13.241389
+    },
+    "78": {
+      "station": "Kurfürstendamm",
+      "latitude": 52.504167,
+      "longitude": 13.333056
+    },
+    "79": {
+      "station": "Kurfürstenstraße",
+      "latitude": 52.5,
+      "longitude": 13.361944
+    },
+    "80": {
+      "station": "Kurt-Schumacher-Platz",
+      "latitude": 52.563333,
+      "longitude": 13.3275
+    },
+    "81": {
+      "station": "Leinestraße",
+      "latitude": 52.473611,
+      "longitude": 13.428056
+    },
+    "82": {
+      "station": "Leopoldplatz",
+      "latitude": 52.546389,
+      "longitude": 13.358611
+    },
+    "83": {
+      "station": "Lichtenberg",
+      "latitude": 52.510556,
+      "longitude": 13.496389
+    },
+    "84": {
+      "station": "Lindauer Allee",
+      "latitude": 52.575278,
+      "longitude": 13.339167
+    },
+    "85": {
+      "station": "Lipschitzallee",
+      "latitude": 52.424722,
+      "longitude": 13.462778
+    },
+    "86": {
+      "station": "Louis-Lewin-Straße",
+      "latitude": 52.572222,
+      "longitude": 13.331944
+    },
+    "87": {
+      "station": "Magdalenenstraße",
+      "latitude": 52.5125,
+      "longitude": 13.486389
+    },
+    "88": {
+      "station": "Märkisches Museum",
+      "latitude": 52.511944,
+      "longitude": 13.408889
+    },
+    "89": {
+      "station": "Mehringdamm",
+      "latitude": 52.494444,
+      "longitude": 13.388611
+    },
+    "90": {
+      "station": "Mendelssohn-Bartholdy-Park",
+      "latitude": 52.504167,
+      "longitude": 13.375
+    },
+    "91": {
+      "station": "Mierendorffplatz",
+      "latitude": 52.526667,
+      "longitude": 13.305
+    },
+    "92": {
+      "station": "Möckernbrücke",
+      "latitude": 52.499167,
+      "longitude": 13.383056
+    },
+    "93": {
+      "station": "Mohrenstraße",
+      "latitude": 52.511667,
+      "longitude": 13.384722
+    },
+    "94": {
+      "station": "Moritzplatz",
+      "latitude": 52.503611,
+      "longitude": 13.411944
+    },
+    "95": {
+      "station": "Museumsinsel",
+      "latitude": 52.5175,
+      "longitude": 13.398333
+    },
+    "96": {
+      "station": "Naturkundemuseum",
+      "latitude": 52.531111,
+      "longitude": 13.3825
+    },
+    "97": {
+      "station": "Nauener Platz",
+      "latitude": 52.551667,
+      "longitude": 13.3675
+    },
+    "98": {
+      "station": "Neu-Westend",
+      "latitude": 52.515556,
+      "longitude": 13.261111
+    },
+    "99": {
+      "station": "Neukölln",
+      "latitude": 52.468333,
+      "longitude": 13.442222
+    },
+    "100": {
+      "station": "Nollendorfplatz",
+      "latitude": 52.499444,
+      "longitude": 13.353611
+    },
+    "101": {
+      "station": "Nürnberger Platz",
+      "latitude": 52.498333,
+      "longitude": 13.334167
+    },
+    "102": {
+      "station": "Olympia-Stadion",
+      "latitude": 52.517222,
+      "longitude": 13.25
+    },
+    "103": {
+      "station": "Onkel Toms Hütte",
+      "latitude": 52.450278,
+      "longitude": 13.253333
+    },
+    "104": {
+      "station": "Oranienburger Tor",
+      "latitude": 52.525,
+      "longitude": 13.3875
+    },
+    "105": {
+      "station": "Oskar-Helene-Heim",
+      "latitude": 52.450278,
+      "longitude": 13.269722
+    },
+    "106": {
+      "station": "Osloer Straße",
+      "latitude": 52.556944,
+      "longitude": 13.373333
+    },
+    "107": {
+      "station": "Osthafen",
+      "latitude": 52.502222,
+      "longitude": 13.446389
+    },
+    "108": {
+      "station": "Otisstraße",
+      "latitude": 52.571111,
+      "longitude": 13.302778
+    },
+    "109": {
+      "station": "Pankow",
+      "latitude": 52.566667,
+      "longitude": 13.411111
+    },
+    "110": {
+      "station": "Pankstraße",
+      "latitude": 52.551111,
+      "longitude": 13.381389
+    },
+    "111": {
+      "station": "Paracelsus-Bad",
+      "latitude": 52.574167,
+      "longitude": 13.349167
+    },
+    "112": {
+      "station": "Paradestraße",
+      "latitude": 52.478056,
+      "longitude": 13.386111
+    },
+    "113": {
+      "station": "Parchimer Allee",
+      "latitude": 52.444722,
+      "longitude": 13.449722
+    },
+    "114": {
+      "station": "Paulsternstraße",
+      "latitude": 52.538056,
+      "longitude": 13.247778
+    },
+    "115": {
+      "station": "Platz der Luftbrücke",
+      "latitude": 52.485556,
+      "longitude": 13.385833
+    },
+    "116": {
+      "station": "Podbielskiallee",
+      "latitude": 52.464167,
+      "longitude": 13.295833
+    },
+    "117": {
+      "station": "Potsdamer Platz",
+      "latitude": 52.509444,
+      "longitude": 13.375833
+    },
+    "118": {
+      "station": "Prinzenstraße",
+      "latitude": 52.498333,
+      "longitude": 13.405833
+    },
+    "119": {
+      "station": "Rathaus Neukölln",
+      "latitude": 52.481944,
+      "longitude": 13.433056
+    },
+    "120": {
+      "station": "Rathaus Reinickendorf",
+      "latitude": 52.588333,
+      "longitude": 13.325833
+    },
+    "121": {
+      "station": "Rathaus Schöneberg",
+      "latitude": 52.483056,
+      "longitude": 13.341944
+    },
+    "122": {
+      "station": "Rathaus Spandau",
+      "latitude": 52.535278,
+      "longitude": 13.199722
+    },
+    "123": {
+      "station": "Rathaus Steglitz",
+      "latitude": 52.456111,
+      "longitude": 13.32
+    },
+    "124": {
+      "station": "Rehberge",
+      "latitude": 52.556667,
+      "longitude": 13.341111
+    },
+    "125": {
+      "station": "Reinickendorfer Straße",
+      "latitude": 52.54,
+      "longitude": 13.370278
+    },
+    "126": {
+      "station": "Residenzstraße",
+      "latitude": 52.571111,
+      "longitude": 13.360556
+    },
+    "127": {
+      "station": "Richard-Wagner-Platz",
+      "latitude": 52.515833,
+      "longitude": 13.3075
+    },
+    "128": {
+      "station": "Rohrdamm",
+      "latitude": 52.537222,
+      "longitude": 13.2625
+    },
+    "129": {
+      "station": "Rosa-Luxemburg-Platz",
+      "latitude": 52.528333,
+      "longitude": 13.410278
+    },
+    "130": {
+      "station": "Rosenthaler Platz",
+      "latitude": 52.53,
+      "longitude": 13.401111
+    },
+    "131": {
+      "station": "Rotes Rathaus",
+      "latitude": 52.518611,
+      "longitude": 13.408333
+    },
+    "132": {
+      "station": "Rüdesheimer Platz",
+      "latitude": 52.473333,
+      "longitude": 13.314444
+    },
+    "133": {
+      "station": "Rudow",
+      "latitude": 52.416111,
+      "longitude": 13.495278
+    },
+    "134": {
+      "station": "Ruhleben",
+      "latitude": 52.525556,
+      "longitude": 13.241389
+    },
+    "135": {
+      "station": "Samariterstraße",
+      "latitude": 52.514722,
+      "longitude": 13.464444
+    },
+    "136": {
+      "station": "Scharnweberstraße",
+      "latitude": 52.566944,
+      "longitude": 13.312778
+    },
+    "137": {
+      "station": "Schillingstraße",
+      "latitude": 52.520278,
+      "longitude": 13.421667
+    },
+    "138": {
+      "station": "Schlesisches Tor",
+      "latitude": 52.500833,
+      "longitude": 13.441667
+    },
+    "139": {
+      "station": "Schloßstraße",
+      "latitude": 52.460833,
+      "longitude": 13.324444
+    },
+    "140": {
+      "station": "Schönhauser Allee",
+      "latitude": 52.549167,
+      "longitude": 13.415
+    },
+    "141": {
+      "station": "Schönleinstraße",
+      "latitude": 52.493056,
+      "longitude": 13.421944
+    },
+    "142": {
+      "station": "Schwartzkopffstraße",
+      "latitude": 52.535278,
+      "longitude": 13.377222
+    },
+    "143": {
+      "station": "Seestraße",
+      "latitude": 52.55,
+      "longitude": 13.352778
+    },
+    "144": {
+      "station": "Senefelderplatz",
+      "latitude": 52.5325,
+      "longitude": 13.4125
+    },
+    "145": {
+      "station": "Siemensdamm",
+      "latitude": 52.536667,
+      "longitude": 13.275556
+    },
+    "146": {
+      "station": "Sophie-Charlotte-Platz",
+      "latitude": 52.510833,
+      "longitude": 13.296944
+    },
+    "147": {
+      "station": "Spichernstraße",
+      "latitude": 52.496667,
+      "longitude": 13.331111
+    },
+    "148": {
+      "station": "Spittelmarkt",
+      "latitude": 52.511111,
+      "longitude": 13.403611
+    },
+    "149": {
+      "station": "Stadtmitte",
+      "latitude": 52.512222,
+      "longitude": 13.389444
+    },
+    "150": {
+      "station": "Strausberger Platz",
+      "latitude": 52.518056,
+      "longitude": 13.430833
+    },
+    "151": {
+      "station": "Südstern (Sü)",
+      "latitude": 52.489444,
+      "longitude": 13.407778
+    },
+    "152": {
+      "station": "Tempelhof (Südring)",
+      "latitude": 52.470833,
+      "longitude": 13.385278
+    },
+    "153": {
+      "station": "Theodor-Heuss-Platz",
+      "latitude": 52.509722,
+      "longitude": 13.273056
+    },
+    "154": {
+      "station": "Tierpark",
+      "latitude": 52.496389,
+      "longitude": 13.523333
+    },
+    "155": {
+      "station": "Turmstraße",
+      "latitude": 52.525833,
+      "longitude": 13.343333
+    },
+    "156": {
+      "station": "Uhlandstraße",
+      "latitude": 52.5025,
+      "longitude": 13.325556
+    },
+    "157": {
+      "station": "Ullsteinstraße",
+      "latitude": 52.453056,
+      "longitude": 13.384444
+    },
+    "158": {
+      "station": "Unter den Linden",
+      "latitude": 52.516944,
+      "longitude": 13.388889
+    },
+    "159": {
+      "station": "Viktoria-Luise-Platz",
+      "latitude": 52.496111,
+      "longitude": 13.342778
+    },
+    "160": {
+      "station": "Vinetastraße",
+      "latitude": 52.559167,
+      "longitude": 13.413333
+    },
+    "161": {
+      "station": "Voltastraße",
+      "latitude": 52.542222,
+      "longitude": 13.393056
+    },
+    "162": {
+      "station": "Walther-Schreiber-Platz",
+      "latitude": 52.465,
+      "longitude": 13.331667
+    },
+    "163": {
+      "station": "Warschauer Straße",
+      "latitude": 52.505278,
+      "longitude": 13.449167
+    },
+    "164": {
+      "station": "Weberwiese",
+      "latitude": 52.516667,
+      "longitude": 13.445
+    },
+    "165": {
+      "station": "Wedding",
+      "latitude": 52.5425,
+      "longitude": 13.366111
+    },
+    "166": {
+      "station": "Weinmeisterstraße",
+      "latitude": 52.525556,
+      "longitude": 13.405
+    },
+    "167": {
+      "station": "Westhafen",
+      "latitude": 52.536389,
+      "longitude": 13.344
+    },
+    "168": {
+      "station": "Westphalweg",
+      "latitude": 52.446389,
+      "longitude": 13.385556
+    },
+    "169": {
+      "station": "Wilmersdorfer Straße",
+      "latitude": 52.506667,
+      "longitude": 13.306667
+    },
+    "170": {
+      "station": "Wittenau (Wilhelmsruher Damm)",
+      "latitude": 52.595833,
+      "longitude": 13.336667
+    },
+    "171": {
+      "station": "Wittenbergplatz",
+      "latitude": 52.502222,
+      "longitude": 13.343056
+    },
+    "172": {
+      "station": "Wuhletal",
+      "latitude": 52.5125,
+      "longitude": 13.575
+    },
+    "173": {
+      "station": "Wutzkyallee",
+      "latitude": 52.423333,
+      "longitude": 13.474722
+    },
+    "174": {
+      "station": "Yorckstraße",
+      "latitude": 52.493056,
+      "longitude": 13.370833
+    },
+    "175": {
+      "station": "Zitadelle",
+      "latitude": 52.537778,
+      "longitude": 13.217778
+    },
+    "176": {
+      "station": "Zoologischer Garten",
+      "latitude": 52.507222,
+      "longitude": 13.3325
+    },
+    "177": {
+      "station": "Zwickauer Damm",
+      "latitude": 52.423333,
+      "longitude": 13.483889
+    }
+  },
+  "lines": {
+    "U1": [
+      "156",
+      "78",
+      "171",
+      "100",
+      "79",
+      "42",
+      "92",
+      "48",
+      "118",
+      "76",
+      "44",
+      "138",
+      "163"
+    ],
+    "U2": [
+      "109",
+      "160",
+      "140",
+      "28",
+      "144",
+      "129",
+      "2",
+      "73",
+      "88",
+      "148",
+      "52",
+      "149",
+      "93",
+      "117",
+      "90",
+      "42",
+      "22",
+      "100",
+      "171",
+      "176",
+      "31",
+      "27",
+      "14",
+      "146",
+      "66",
+      "153",
+      "98",
+      "102",
+      "134"
+    ],
+    "U3": [
+      "77",
+      "103",
+      "105",
+      "37",
+      "26",
+      "116",
+      "20",
+      "132",
+      "53",
+      "32",
+      "58",
+      "147",
+      "8",
+      "171",
+      "100",
+      "79",
+      "42",
+      "92",
+      "48",
+      "118",
+      "76",
+      "44",
+      "138",
+      "163"
+    ],
+    "U4": [
+      "100",
+      "159",
+      "9",
+      "121",
+      "61"
+    ],
+    "U5": [
+      "51",
+      "24",
+      "19",
+      "158",
+      "95",
+      "131",
+      "2",
+      "137",
+      "150",
+      "164",
+      "34",
+      "135",
+      "33",
+      "87",
+      "83",
+      "38",
+      "154",
+      "12",
+      "30",
+      "172",
+      "70",
+      "71",
+      "25",
+      "55",
+      "86",
+      "60"
+    ],
+    "U6": [
+      "5",
+      "18",
+      "59",
+      "108",
+      "136",
+      "80",
+      "1",
+      "124",
+      "143",
+      "82",
+      "165",
+      "125",
+      "142",
+      "96",
+      "104",
+      "39",
+      "158",
+      "149",
+      "74",
+      "48",
+      "89",
+      "115",
+      "112",
+      "152",
+      "6",
+      "67",
+      "157",
+      "168",
+      "4"
+    ],
+    "U7": [
+      "122",
+      "3",
+      "175",
+      "50",
+      "114",
+      "128",
+      "145",
+      "45",
+      "62",
+      "65",
+      "91",
+      "127",
+      "14",
+      "169",
+      "0",
+      "75",
+      "32",
+      "16",
+      "10",
+      "9",
+      "29",
+      "72",
+      "174",
+      "92",
+      "89",
+      "43",
+      "151",
+      "56",
+      "119",
+      "69",
+      "99",
+      "45",
+      "15",
+      "113",
+      "21",
+      "64",
+      "85",
+      "173",
+      "177",
+      "133"
+    ],
+    "U8": [
+      "170",
+      "120",
+      "68",
+      "84",
+      "111",
+      "126",
+      "35",
+      "106",
+      "110",
+      "41",
+      "161",
+      "11",
+      "130",
+      "166",
+      "2",
+      "63",
+      "54",
+      "94",
+      "76",
+      "141",
+      "56",
+      "17",
+      "81",
+      "57"
+    ],
+    "U9": [
+      "106",
+      "97",
+      "82",
+      "7",
+      "167",
+      "13",
+      "155",
+      "49",
+      "176",
+      "78",
+      "147",
+      "46",
+      "10",
+      "23",
+      "40",
+      "162",
+      "139",
+      "123"
+    ]
+  }
+}
